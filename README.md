@@ -24,31 +24,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadbinsadiq&show_icons=true&locale=en&layout=compact" alt="ahmadbinsadiq" /></p>
 
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Snake Animation</title>
-<style>
-  @keyframes moveSnake {
-    0% { left: 0; }
-    25% { left: 25%; }
-    50% { left: 50%; }
-    75% { left: 75%; }
-    100% { left: 100%; }
-  }
-  .snake {
-    position: absolute;
-    font-family: monospace;
-    white-space: nowrap;
-    animation: moveSnake 5s linear infinite;
-  }
-
-
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ahmadbinsadiq/ahmadbinsadiq/output/snake.svg" alt="Snake animation" />
 
