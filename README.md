@@ -45,16 +45,30 @@
     white-space: nowrap;
     animation: moveSnake 5s linear infinite;
   }
-</style>
-</head>
-<body>
-<pre class="snake">
-  _______ 
- /       \
-/_  O O  _\
-   \_ = _/
-    |  |
-   /_____\
-</pre>
-</body>
-</html>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ahmadbinsadiq/ahmadbinsadiq/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ahmadbinsadiq/ahmadbinsadiq/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/ahmadbinsadiq/ahmadbinsadiq/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/ahmadbinsadiq/ahmadbinsadiq/output/snake.svg" alt="Snake animation" />
+
+###
