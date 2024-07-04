@@ -46,29 +46,9 @@
     animation: moveSnake 5s linear infinite;
   }
 
-###
 
-<div align="left">
-</div>
-
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ahmadbinsadiq/ahmadbinsadiq/output/snake.svg" alt="Snake animation" />
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ahmadbinsadiq/ahmadbinsadiq/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/ahmadbinsadiq/ahmadbinsadiq/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/ahmadbinsadiq/ahmadbinsadiq/output/snake.svg" alt="Snake animation" />
-
-###
