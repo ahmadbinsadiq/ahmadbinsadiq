@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Bin Sadiq</h1>
-<h3 align="center">A passionate Industrial Engineer & Data Analyst.</h3>
+<h3 align="center">A passionate Data Scientist & Industrial Engineer.</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Industry 5.0.<br>👯 I’m looking to collaborate on the Industry 5.0 Implementation framework in SMEs.<br>🤝 I’m looking for help with Industrial collaborations.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about anything.<br>⚡ Fun fact If you burned all the data created in 1 day into DVDs, you could stack them on top of each other to reach the moon twice.
