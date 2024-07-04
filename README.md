@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Bin Sadiq</h1>
 <h3 align="center">A passionate Industrial Engineer & Data Analyst.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadbinsadiq" alt="ahmadbinsadiq" /></a> </p>
-
 - 🔭 I’m currently working on **Industry 5.0**
 
 - 👯 I’m looking to collaborate on **Industry 5.0**
@@ -23,6 +21,40 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadbinsadiq&show_icons=true&locale=en&layout=compact" alt="ahmadbinsadiq" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadbinsadiq&show_icons=true&locale=en&layout=compact" alt="ahmadbinsadiq" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadbinsadiq&show_icons=true&locale=en" alt="ahmadbinsadiq" /></p>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Snake Animation</title>
+<style>
+  @keyframes moveSnake {
+    0% { left: 0; }
+    25% { left: 25%; }
+    50% { left: 50%; }
+    75% { left: 75%; }
+    100% { left: 100%; }
+  }
+  .snake {
+    position: absolute;
+    font-family: monospace;
+    white-space: nowrap;
+    animation: moveSnake 5s linear infinite;
+  }
+</style>
+</head>
+<body>
+<pre class="snake">
+  _______ 
+ /       \
+/_  O O  _\
+   \_ = _/
+    |  |
+   /_____\
+</pre>
+</body>
+</html>
